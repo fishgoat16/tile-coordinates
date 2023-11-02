@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Tile Coordinates
+Player's current tile coordinates
